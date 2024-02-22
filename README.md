@@ -17,6 +17,6 @@ Welcome to the Grocery Management System! This simple Python script allows you t
 5. Receive an alert for items running low during the update if the new amount is less than 25% of the original amount.
 
 ## Input Format
-Enter the names of groceries as a space-separated list.
-For each grocery, input the initial amount in kilograms.
-Update the quantities when prompted.
+1.Enter the names of groceries as a space-separated list.
+2.For each grocery, input the initial amount in kilograms.
+3.Update the quantities when prompted.
